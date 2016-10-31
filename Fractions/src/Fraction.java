@@ -57,7 +57,7 @@ public class Fraction {
      * @param denomValue the value of the new denominator
      */
     public void setDenominator(long denomValue) {
-        this.numerator = denomValue;
+        this.denominator = denomValue;
     }
     
     /**
